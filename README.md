@@ -22,7 +22,7 @@ All running locally. All open source (except Claude API, which is cheap).
 
 ## 📋 Prerequisites
 
-- **Python 3.10+**
+- **Python 3.11+**
 - **Familiarity with Python basics**: functions, classes, async/await concepts
 - **An Anthropic API key**: [Get one free here](https://console.anthropic.com)
   - Very cheap for learning (~$0.01 per 1000 API calls typical)
@@ -124,7 +124,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 2: Tools & Agents with LangGraph
+### Lesson 2: Tools & Agents with LangGraph (🚧 In Development 🚧)
 **Goal:** Understand tools and build an agentic state machine.
 
 📂 **Folder:** [`02-tools-and-agents/`](./02-tools-and-agents/)
@@ -154,7 +154,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 3: Agentic RAG
+### Lesson 3: Agentic RAG (🚧 In Development 🚧)
 **Goal:** Combine RAG + agents—retrieval becomes a tool the agent chooses to use.
 
 📂 **Folder:** [`03-agentic-rag/`](./03-agentic-rag/)
@@ -186,7 +186,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 4: FastAPI Deployment
+### Lesson 4: FastAPI Deployment (🚧 In Development 🚧)
 **Goal:** Wrap your agentic RAG in a production API.
 
 📂 **Folder:** [`04-fastapi-deployment/`](./04-fastapi-deployment/)
@@ -219,7 +219,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 5: Monitoring with Opik
+### Lesson 5: Monitoring with Opik (🚧 In Development 🚧)
 **Goal:** Instrument your API to see what's happening in production.
 
 📂 **Folder:** [`05-monitoring-with-opik/`](./05-monitoring-with-opik/)
@@ -252,7 +252,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 6: Production Patterns
+### Lesson 6: Production Patterns (🚧 In Development 🚧)
 **Goal:** Make your system robust, cheap, and scalable.
 
 📂 **Folder:** [`06-production-patterns/`](./06-production-patterns/)
