@@ -93,7 +93,7 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 
 ---
 
-### Lesson 1: Basic RAG (🚧 In Development 🚧)
+### Lesson 1: Basic RAG
 **Goal:** Build a complete RAG system from scratch.
 
 📂 **Folder:** [`01-basic-rag/`](./01-basic-rag/)
