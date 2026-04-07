@@ -99,23 +99,15 @@ Each lesson builds on the previous. By lesson 5, you've built a complete system.
 📂 **Folder:** [`01-basic-rag/`](./01-basic-rag/)
 
 **Notebooks:**
-- `simple_rag.ipynb` — Naive RAG vs. better RAG (side-by-side comparison)
-- `understanding_chunks.ipynb` — The chunking problem (optional)
-
-**Code (in `src/`):**
-- `embedder.py` — Embedding documents
-- `document_loader.py` — Loading and chunking
-- `chroma_store.py` — Vector database operations
-- `rag_pipeline.py` — The complete RAG
+- `simple_rag.ipynb` — Complete simple RAG implementation. Naive RAG vs. better RAG (HyDE example)
 
 **What You'll Learn:**
 - How to load documents and split them intelligently
-- Why chunking size matters
 - Building a complete end-to-end RAG
 - When RAG works well, when it doesn't
 
 **Hands-On:**
-- Load 5 documents
+- Load 3 documents
 - Query the system
 - See why naive retrieval fails
 - Compare with semantic retrieval
