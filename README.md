@@ -546,6 +546,4 @@ Pick a lesson and open the notebook:
 
 ---
 
-**Built with ❤️ by Santiago for learners everywhere.**
-
-*If this helped you, please star the repo and share it with others!* ⭐
+**Built with ❤️ for learners everywhere.**
